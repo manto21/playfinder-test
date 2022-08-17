@@ -1,0 +1,1717 @@
+{
+    "meta": {
+        "total_items": 142,
+        "filter": {
+            "starts": "2018-01-09",
+            "ends": "2018-01-15",
+            "fromTime": "00:00",
+            "toTime": "23:59"
+        }
+    },
+    "data": [
+        {
+            "type": "slots",
+            "id": "446269",
+            "attributes": {
+                "starts": "2018-01-09T06:40:00+00:00",
+                "ends": "2018-01-09T07:20:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "446270",
+            "attributes": {
+                "starts": "2018-01-09T07:20:00+00:00",
+                "ends": "2018-01-09T08:00:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "446271",
+            "attributes": {
+                "starts": "2018-01-09T08:00:00+00:00",
+                "ends": "2018-01-09T08:40:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "446272",
+            "attributes": {
+                "starts": "2018-01-09T08:40:00+00:00",
+                "ends": "2018-01-09T09:20:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 4
+            }
+        },
+        {
+            "type": "slots",
+            "id": "446273",
+            "attributes": {
+                "starts": "2018-01-09T09:20:00+00:00",
+                "ends": "2018-01-09T10:00:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 4
+            }
+        },
+        {
+            "type": "slots",
+            "id": "446274",
+            "attributes": {
+                "starts": "2018-01-09T10:00:00+00:00",
+                "ends": "2018-01-09T10:40:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 3
+            }
+        },
+        {
+            "type": "slots",
+            "id": "446275",
+            "attributes": {
+                "starts": "2018-01-09T10:40:00+00:00",
+                "ends": "2018-01-09T11:20:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 3
+            }
+        },
+        {
+            "type": "slots",
+            "id": "446276",
+            "attributes": {
+                "starts": "2018-01-09T11:20:00+00:00",
+                "ends": "2018-01-09T12:00:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 4
+            }
+        },
+        {
+            "type": "slots",
+            "id": "446277",
+            "attributes": {
+                "starts": "2018-01-09T12:00:00+00:00",
+                "ends": "2018-01-09T12:40:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "446278",
+            "attributes": {
+                "starts": "2018-01-09T12:40:00+00:00",
+                "ends": "2018-01-09T13:20:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "446279",
+            "attributes": {
+                "starts": "2018-01-09T13:20:00+00:00",
+                "ends": "2018-01-09T14:00:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 1
+            }
+        },
+        {
+            "type": "slots",
+            "id": "446280",
+            "attributes": {
+                "starts": "2018-01-09T14:00:00+00:00",
+                "ends": "2018-01-09T14:40:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 4
+            }
+        },
+        {
+            "type": "slots",
+            "id": "446281",
+            "attributes": {
+                "starts": "2018-01-09T14:40:00+00:00",
+                "ends": "2018-01-09T15:20:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 4
+            }
+        },
+        {
+            "type": "slots",
+            "id": "446282",
+            "attributes": {
+                "starts": "2018-01-09T15:20:00+00:00",
+                "ends": "2018-01-09T16:00:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 4
+            }
+        },
+        {
+            "type": "slots",
+            "id": "446283",
+            "attributes": {
+                "starts": "2018-01-09T16:00:00+00:00",
+                "ends": "2018-01-09T16:40:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 3
+            }
+        },
+        {
+            "type": "slots",
+            "id": "446284",
+            "attributes": {
+                "starts": "2018-01-09T16:40:00+00:00",
+                "ends": "2018-01-09T17:20:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 2
+            }
+        },
+        {
+            "type": "slots",
+            "id": "446285",
+            "attributes": {
+                "starts": "2018-01-09T17:20:00+00:00",
+                "ends": "2018-01-09T18:00:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "446286",
+            "attributes": {
+                "starts": "2018-01-09T18:00:00+00:00",
+                "ends": "2018-01-09T18:40:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "446287",
+            "attributes": {
+                "starts": "2018-01-09T18:40:00+00:00",
+                "ends": "2018-01-09T19:20:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "446288",
+            "attributes": {
+                "starts": "2018-01-09T19:20:00+00:00",
+                "ends": "2018-01-09T20:00:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "446289",
+            "attributes": {
+                "starts": "2018-01-09T20:00:00+00:00",
+                "ends": "2018-01-09T20:40:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "446290",
+            "attributes": {
+                "starts": "2018-01-09T20:40:00+00:00",
+                "ends": "2018-01-09T21:20:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "446291",
+            "attributes": {
+                "starts": "2018-01-09T21:20:00+00:00",
+                "ends": "2018-01-09T22:00:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "447757",
+            "attributes": {
+                "starts": "2018-01-10T06:40:00+00:00",
+                "ends": "2018-01-10T07:20:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 3
+            }
+        },
+        {
+            "type": "slots",
+            "id": "447758",
+            "attributes": {
+                "starts": "2018-01-10T07:20:00+00:00",
+                "ends": "2018-01-10T08:00:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "447759",
+            "attributes": {
+                "starts": "2018-01-10T08:00:00+00:00",
+                "ends": "2018-01-10T08:40:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "447760",
+            "attributes": {
+                "starts": "2018-01-10T08:40:00+00:00",
+                "ends": "2018-01-10T09:20:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 3
+            }
+        },
+        {
+            "type": "slots",
+            "id": "447761",
+            "attributes": {
+                "starts": "2018-01-10T09:20:00+00:00",
+                "ends": "2018-01-10T10:00:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 3
+            }
+        },
+        {
+            "type": "slots",
+            "id": "447762",
+            "attributes": {
+                "starts": "2018-01-10T10:00:00+00:00",
+                "ends": "2018-01-10T10:40:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 4
+            }
+        },
+        {
+            "type": "slots",
+            "id": "447763",
+            "attributes": {
+                "starts": "2018-01-10T10:40:00+00:00",
+                "ends": "2018-01-10T11:20:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 3
+            }
+        },
+        {
+            "type": "slots",
+            "id": "447764",
+            "attributes": {
+                "starts": "2018-01-10T11:20:00+00:00",
+                "ends": "2018-01-10T12:00:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 1
+            }
+        },
+        {
+            "type": "slots",
+            "id": "447765",
+            "attributes": {
+                "starts": "2018-01-10T12:00:00+00:00",
+                "ends": "2018-01-10T12:40:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "447766",
+            "attributes": {
+                "starts": "2018-01-10T12:40:00+00:00",
+                "ends": "2018-01-10T13:20:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 1
+            }
+        },
+        {
+            "type": "slots",
+            "id": "447767",
+            "attributes": {
+                "starts": "2018-01-10T13:20:00+00:00",
+                "ends": "2018-01-10T14:00:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "447768",
+            "attributes": {
+                "starts": "2018-01-10T14:00:00+00:00",
+                "ends": "2018-01-10T14:40:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "447769",
+            "attributes": {
+                "starts": "2018-01-10T14:40:00+00:00",
+                "ends": "2018-01-10T15:20:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "447770",
+            "attributes": {
+                "starts": "2018-01-10T15:20:00+00:00",
+                "ends": "2018-01-10T16:00:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "447771",
+            "attributes": {
+                "starts": "2018-01-10T16:00:00+00:00",
+                "ends": "2018-01-10T16:40:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "447772",
+            "attributes": {
+                "starts": "2018-01-10T16:40:00+00:00",
+                "ends": "2018-01-10T17:20:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "447773",
+            "attributes": {
+                "starts": "2018-01-10T17:20:00+00:00",
+                "ends": "2018-01-10T18:00:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "447774",
+            "attributes": {
+                "starts": "2018-01-10T18:00:00+00:00",
+                "ends": "2018-01-10T18:40:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "447775",
+            "attributes": {
+                "starts": "2018-01-10T18:40:00+00:00",
+                "ends": "2018-01-10T19:20:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "447776",
+            "attributes": {
+                "starts": "2018-01-10T19:20:00+00:00",
+                "ends": "2018-01-10T20:00:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "447777",
+            "attributes": {
+                "starts": "2018-01-10T20:00:00+00:00",
+                "ends": "2018-01-10T20:40:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "447778",
+            "attributes": {
+                "starts": "2018-01-10T20:40:00+00:00",
+                "ends": "2018-01-10T21:20:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "447779",
+            "attributes": {
+                "starts": "2018-01-10T21:20:00+00:00",
+                "ends": "2018-01-10T22:00:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "449079",
+            "attributes": {
+                "starts": "2018-01-11T06:40:00+00:00",
+                "ends": "2018-01-11T07:20:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 2
+            }
+        },
+        {
+            "type": "slots",
+            "id": "449080",
+            "attributes": {
+                "starts": "2018-01-11T07:20:00+00:00",
+                "ends": "2018-01-11T08:00:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "449081",
+            "attributes": {
+                "starts": "2018-01-11T08:00:00+00:00",
+                "ends": "2018-01-11T08:40:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "449082",
+            "attributes": {
+                "starts": "2018-01-11T08:40:00+00:00",
+                "ends": "2018-01-11T09:20:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 1
+            }
+        },
+        {
+            "type": "slots",
+            "id": "449083",
+            "attributes": {
+                "starts": "2018-01-11T09:20:00+00:00",
+                "ends": "2018-01-11T10:00:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 4
+            }
+        },
+        {
+            "type": "slots",
+            "id": "449084",
+            "attributes": {
+                "starts": "2018-01-11T10:00:00+00:00",
+                "ends": "2018-01-11T10:40:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 4
+            }
+        },
+        {
+            "type": "slots",
+            "id": "449085",
+            "attributes": {
+                "starts": "2018-01-11T10:40:00+00:00",
+                "ends": "2018-01-11T11:20:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 4
+            }
+        },
+        {
+            "type": "slots",
+            "id": "449086",
+            "attributes": {
+                "starts": "2018-01-11T11:20:00+00:00",
+                "ends": "2018-01-11T12:00:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 3
+            }
+        },
+        {
+            "type": "slots",
+            "id": "449087",
+            "attributes": {
+                "starts": "2018-01-11T12:00:00+00:00",
+                "ends": "2018-01-11T12:40:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "449088",
+            "attributes": {
+                "starts": "2018-01-11T12:40:00+00:00",
+                "ends": "2018-01-11T13:20:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "449089",
+            "attributes": {
+                "starts": "2018-01-11T13:20:00+00:00",
+                "ends": "2018-01-11T14:00:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 1
+            }
+        },
+        {
+            "type": "slots",
+            "id": "449090",
+            "attributes": {
+                "starts": "2018-01-11T14:00:00+00:00",
+                "ends": "2018-01-11T14:40:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 4
+            }
+        },
+        {
+            "type": "slots",
+            "id": "449091",
+            "attributes": {
+                "starts": "2018-01-11T14:40:00+00:00",
+                "ends": "2018-01-11T15:20:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 4
+            }
+        },
+        {
+            "type": "slots",
+            "id": "449092",
+            "attributes": {
+                "starts": "2018-01-11T15:20:00+00:00",
+                "ends": "2018-01-11T16:00:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 2
+            }
+        },
+        {
+            "type": "slots",
+            "id": "449093",
+            "attributes": {
+                "starts": "2018-01-11T16:00:00+00:00",
+                "ends": "2018-01-11T16:40:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 3
+            }
+        },
+        {
+            "type": "slots",
+            "id": "449094",
+            "attributes": {
+                "starts": "2018-01-11T16:40:00+00:00",
+                "ends": "2018-01-11T17:20:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 2
+            }
+        },
+        {
+            "type": "slots",
+            "id": "449095",
+            "attributes": {
+                "starts": "2018-01-11T17:20:00+00:00",
+                "ends": "2018-01-11T18:00:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 2
+            }
+        },
+        {
+            "type": "slots",
+            "id": "449096",
+            "attributes": {
+                "starts": "2018-01-11T18:00:00+00:00",
+                "ends": "2018-01-11T18:40:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "449097",
+            "attributes": {
+                "starts": "2018-01-11T18:40:00+00:00",
+                "ends": "2018-01-11T19:20:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "449098",
+            "attributes": {
+                "starts": "2018-01-11T19:20:00+00:00",
+                "ends": "2018-01-11T20:00:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "449099",
+            "attributes": {
+                "starts": "2018-01-11T20:00:00+00:00",
+                "ends": "2018-01-11T20:40:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "449100",
+            "attributes": {
+                "starts": "2018-01-11T20:40:00+00:00",
+                "ends": "2018-01-11T21:20:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "449101",
+            "attributes": {
+                "starts": "2018-01-11T21:20:00+00:00",
+                "ends": "2018-01-11T22:00:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "450705",
+            "attributes": {
+                "starts": "2018-01-12T06:40:00+00:00",
+                "ends": "2018-01-12T07:20:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 1
+            }
+        },
+        {
+            "type": "slots",
+            "id": "450706",
+            "attributes": {
+                "starts": "2018-01-12T07:20:00+00:00",
+                "ends": "2018-01-12T08:00:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "450707",
+            "attributes": {
+                "starts": "2018-01-12T08:00:00+00:00",
+                "ends": "2018-01-12T08:40:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 1
+            }
+        },
+        {
+            "type": "slots",
+            "id": "450708",
+            "attributes": {
+                "starts": "2018-01-12T08:40:00+00:00",
+                "ends": "2018-01-12T09:20:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 3
+            }
+        },
+        {
+            "type": "slots",
+            "id": "450709",
+            "attributes": {
+                "starts": "2018-01-12T09:20:00+00:00",
+                "ends": "2018-01-12T10:00:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 3
+            }
+        },
+        {
+            "type": "slots",
+            "id": "450710",
+            "attributes": {
+                "starts": "2018-01-12T10:00:00+00:00",
+                "ends": "2018-01-12T10:40:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 4
+            }
+        },
+        {
+            "type": "slots",
+            "id": "450711",
+            "attributes": {
+                "starts": "2018-01-12T10:40:00+00:00",
+                "ends": "2018-01-12T11:20:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 4
+            }
+        },
+        {
+            "type": "slots",
+            "id": "450712",
+            "attributes": {
+                "starts": "2018-01-12T11:20:00+00:00",
+                "ends": "2018-01-12T12:00:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 2
+            }
+        },
+        {
+            "type": "slots",
+            "id": "450713",
+            "attributes": {
+                "starts": "2018-01-12T12:00:00+00:00",
+                "ends": "2018-01-12T12:40:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "450714",
+            "attributes": {
+                "starts": "2018-01-12T12:40:00+00:00",
+                "ends": "2018-01-12T13:20:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "450715",
+            "attributes": {
+                "starts": "2018-01-12T13:20:00+00:00",
+                "ends": "2018-01-12T14:00:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "450716",
+            "attributes": {
+                "starts": "2018-01-12T14:00:00+00:00",
+                "ends": "2018-01-12T14:40:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 3
+            }
+        },
+        {
+            "type": "slots",
+            "id": "450717",
+            "attributes": {
+                "starts": "2018-01-12T14:40:00+00:00",
+                "ends": "2018-01-12T15:20:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 4
+            }
+        },
+        {
+            "type": "slots",
+            "id": "450718",
+            "attributes": {
+                "starts": "2018-01-12T15:20:00+00:00",
+                "ends": "2018-01-12T16:00:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 4
+            }
+        },
+        {
+            "type": "slots",
+            "id": "450719",
+            "attributes": {
+                "starts": "2018-01-12T16:00:00+00:00",
+                "ends": "2018-01-12T16:40:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 4
+            }
+        },
+        {
+            "type": "slots",
+            "id": "450720",
+            "attributes": {
+                "starts": "2018-01-12T16:40:00+00:00",
+                "ends": "2018-01-12T17:20:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 1
+            }
+        },
+        {
+            "type": "slots",
+            "id": "450721",
+            "attributes": {
+                "starts": "2018-01-12T17:20:00+00:00",
+                "ends": "2018-01-12T18:00:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "450722",
+            "attributes": {
+                "starts": "2018-01-12T18:00:00+00:00",
+                "ends": "2018-01-12T18:40:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "450723",
+            "attributes": {
+                "starts": "2018-01-12T18:40:00+00:00",
+                "ends": "2018-01-12T19:20:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "450724",
+            "attributes": {
+                "starts": "2018-01-12T19:20:00+00:00",
+                "ends": "2018-01-12T20:00:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 1
+            }
+        },
+        {
+            "type": "slots",
+            "id": "450725",
+            "attributes": {
+                "starts": "2018-01-12T20:00:00+00:00",
+                "ends": "2018-01-12T20:40:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "450726",
+            "attributes": {
+                "starts": "2018-01-12T20:40:00+00:00",
+                "ends": "2018-01-12T21:20:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 3
+            }
+        },
+        {
+            "type": "slots",
+            "id": "450727",
+            "attributes": {
+                "starts": "2018-01-12T21:20:00+00:00",
+                "ends": "2018-01-12T22:00:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "451272",
+            "attributes": {
+                "starts": "2018-01-13T10:00:00+00:00",
+                "ends": "2018-01-13T10:40:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "451273",
+            "attributes": {
+                "starts": "2018-01-13T10:40:00+00:00",
+                "ends": "2018-01-13T11:20:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "451274",
+            "attributes": {
+                "starts": "2018-01-13T11:20:00+00:00",
+                "ends": "2018-01-13T12:00:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "451275",
+            "attributes": {
+                "starts": "2018-01-13T12:00:00+00:00",
+                "ends": "2018-01-13T12:40:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "451276",
+            "attributes": {
+                "starts": "2018-01-13T12:40:00+00:00",
+                "ends": "2018-01-13T13:20:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "451277",
+            "attributes": {
+                "starts": "2018-01-13T13:20:00+00:00",
+                "ends": "2018-01-13T14:00:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "451278",
+            "attributes": {
+                "starts": "2018-01-13T14:00:00+00:00",
+                "ends": "2018-01-13T14:40:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "451279",
+            "attributes": {
+                "starts": "2018-01-13T14:40:00+00:00",
+                "ends": "2018-01-13T15:20:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "451280",
+            "attributes": {
+                "starts": "2018-01-13T15:20:00+00:00",
+                "ends": "2018-01-13T16:00:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "451281",
+            "attributes": {
+                "starts": "2018-01-13T16:00:00+00:00",
+                "ends": "2018-01-13T16:40:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "451282",
+            "attributes": {
+                "starts": "2018-01-13T16:40:00+00:00",
+                "ends": "2018-01-13T17:20:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "451283",
+            "attributes": {
+                "starts": "2018-01-13T17:20:00+00:00",
+                "ends": "2018-01-13T18:00:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "453496",
+            "attributes": {
+                "starts": "2018-01-14T10:00:00+00:00",
+                "ends": "2018-01-14T10:40:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "453497",
+            "attributes": {
+                "starts": "2018-01-14T10:40:00+00:00",
+                "ends": "2018-01-14T11:20:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "453498",
+            "attributes": {
+                "starts": "2018-01-14T11:20:00+00:00",
+                "ends": "2018-01-14T12:00:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "453499",
+            "attributes": {
+                "starts": "2018-01-14T12:00:00+00:00",
+                "ends": "2018-01-14T12:40:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "453500",
+            "attributes": {
+                "starts": "2018-01-14T12:40:00+00:00",
+                "ends": "2018-01-14T13:20:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "453501",
+            "attributes": {
+                "starts": "2018-01-14T13:20:00+00:00",
+                "ends": "2018-01-14T14:00:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "453502",
+            "attributes": {
+                "starts": "2018-01-14T14:00:00+00:00",
+                "ends": "2018-01-14T14:40:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "453503",
+            "attributes": {
+                "starts": "2018-01-14T14:40:00+00:00",
+                "ends": "2018-01-14T15:20:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "453504",
+            "attributes": {
+                "starts": "2018-01-14T15:20:00+00:00",
+                "ends": "2018-01-14T16:00:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "453505",
+            "attributes": {
+                "starts": "2018-01-14T16:00:00+00:00",
+                "ends": "2018-01-14T16:40:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "453506",
+            "attributes": {
+                "starts": "2018-01-14T16:40:00+00:00",
+                "ends": "2018-01-14T17:20:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "453507",
+            "attributes": {
+                "starts": "2018-01-14T17:20:00+00:00",
+                "ends": "2018-01-14T18:00:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "453508",
+            "attributes": {
+                "starts": "2018-01-14T18:00:00+00:00",
+                "ends": "2018-01-14T18:40:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "453509",
+            "attributes": {
+                "starts": "2018-01-14T18:40:00+00:00",
+                "ends": "2018-01-14T19:20:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "453510",
+            "attributes": {
+                "starts": "2018-01-14T19:20:00+00:00",
+                "ends": "2018-01-14T20:00:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "454721",
+            "attributes": {
+                "starts": "2018-01-15T06:40:00+00:00",
+                "ends": "2018-01-15T07:20:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 4
+            }
+        },
+        {
+            "type": "slots",
+            "id": "454722",
+            "attributes": {
+                "starts": "2018-01-15T07:20:00+00:00",
+                "ends": "2018-01-15T08:00:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "454723",
+            "attributes": {
+                "starts": "2018-01-15T08:00:00+00:00",
+                "ends": "2018-01-15T08:40:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "454724",
+            "attributes": {
+                "starts": "2018-01-15T08:40:00+00:00",
+                "ends": "2018-01-15T09:20:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 3
+            }
+        },
+        {
+            "type": "slots",
+            "id": "454725",
+            "attributes": {
+                "starts": "2018-01-15T09:20:00+00:00",
+                "ends": "2018-01-15T10:00:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 2
+            }
+        },
+        {
+            "type": "slots",
+            "id": "454726",
+            "attributes": {
+                "starts": "2018-01-15T10:00:00+00:00",
+                "ends": "2018-01-15T10:40:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 4
+            }
+        },
+        {
+            "type": "slots",
+            "id": "454727",
+            "attributes": {
+                "starts": "2018-01-15T10:40:00+00:00",
+                "ends": "2018-01-15T11:20:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 4
+            }
+        },
+        {
+            "type": "slots",
+            "id": "454728",
+            "attributes": {
+                "starts": "2018-01-15T11:20:00+00:00",
+                "ends": "2018-01-15T12:00:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 3
+            }
+        },
+        {
+            "type": "slots",
+            "id": "454729",
+            "attributes": {
+                "starts": "2018-01-15T12:00:00+00:00",
+                "ends": "2018-01-15T12:40:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 1
+            }
+        },
+        {
+            "type": "slots",
+            "id": "454730",
+            "attributes": {
+                "starts": "2018-01-15T12:40:00+00:00",
+                "ends": "2018-01-15T13:20:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 1
+            }
+        },
+        {
+            "type": "slots",
+            "id": "454731",
+            "attributes": {
+                "starts": "2018-01-15T13:20:00+00:00",
+                "ends": "2018-01-15T14:00:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 4
+            }
+        },
+        {
+            "type": "slots",
+            "id": "454732",
+            "attributes": {
+                "starts": "2018-01-15T14:00:00+00:00",
+                "ends": "2018-01-15T14:40:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 4
+            }
+        },
+        {
+            "type": "slots",
+            "id": "454733",
+            "attributes": {
+                "starts": "2018-01-15T14:40:00+00:00",
+                "ends": "2018-01-15T15:20:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 4
+            }
+        },
+        {
+            "type": "slots",
+            "id": "454734",
+            "attributes": {
+                "starts": "2018-01-15T15:20:00+00:00",
+                "ends": "2018-01-15T16:00:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 3
+            }
+        },
+        {
+            "type": "slots",
+            "id": "454735",
+            "attributes": {
+                "starts": "2018-01-15T16:00:00+00:00",
+                "ends": "2018-01-15T16:40:00+00:00",
+                "price": "9.90",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 3
+            }
+        },
+        {
+            "type": "slots",
+            "id": "454736",
+            "attributes": {
+                "starts": "2018-01-15T16:40:00+00:00",
+                "ends": "2018-01-15T17:20:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 2
+            }
+        },
+        {
+            "type": "slots",
+            "id": "454737",
+            "attributes": {
+                "starts": "2018-01-15T17:20:00+00:00",
+                "ends": "2018-01-15T18:00:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "454738",
+            "attributes": {
+                "starts": "2018-01-15T18:00:00+00:00",
+                "ends": "2018-01-15T18:40:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "454739",
+            "attributes": {
+                "starts": "2018-01-15T18:40:00+00:00",
+                "ends": "2018-01-15T19:20:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "454740",
+            "attributes": {
+                "starts": "2018-01-15T19:20:00+00:00",
+                "ends": "2018-01-15T20:00:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "454741",
+            "attributes": {
+                "starts": "2018-01-15T20:00:00+00:00",
+                "ends": "2018-01-15T20:40:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "454742",
+            "attributes": {
+                "starts": "2018-01-15T20:40:00+00:00",
+                "ends": "2018-01-15T21:20:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        },
+        {
+            "type": "slots",
+            "id": "454743",
+            "attributes": {
+                "starts": "2018-01-15T21:20:00+00:00",
+                "ends": "2018-01-15T22:00:00+00:00",
+                "price": "12.05",
+                "admin_fee": "0.00",
+                "currency": "GBP",
+                "availabilities": 0
+            }
+        }
+    ]
+}

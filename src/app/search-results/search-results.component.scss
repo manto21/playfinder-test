@@ -1,0 +1,73 @@
+@import "../../styles/variables.scss";
+
+.search-results {
+    padding-top: 100px;
+
+    p {
+        text-align: center;
+        color: $brand_light_2;
+    }
+
+    .titles {
+        position: sticky;
+        background-color: #fff;
+        top: 236px;
+
+        &.error {
+            top: 260px;
+        }
+
+        li {
+            padding-top: 10px;
+            padding-bottom: 10px;
+            margin-bottom: 0px;
+        }
+
+        @media only screen and (max-width: 600px) {
+            display: none;
+        }
+
+        .item {
+            color: $brand_light_2;
+        }
+    }
+
+    li {
+        display: flex;
+        border-radius: 10px;
+        margin-bottom: 20px;
+        padding: 20px;
+        cursor: pointer;
+
+        @media only screen and (max-width: 600px) {
+            flex-direction: column;
+            align-items: center;
+        }
+
+        @media only screen and (max-width: 920px) {
+            padding-left: 0px;
+            padding-right: 0px;
+            font-size: 15px;
+        }
+
+        &.red {
+            background-color: $red;
+        }
+
+        &.orange {
+            background-color: $orange;
+        }
+
+        &.green {
+            background-color: $green_light;
+        }
+
+        .item {
+            width: 16.66%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+        }
+    }
+}

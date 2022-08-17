@@ -1,0 +1,79 @@
+@import "../../styles/variables.scss";
+
+.search-form {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    position: sticky;
+    top: 80px;
+    border-bottom: 1px solid $brand_light;
+    background-color: #fff;
+    z-index: 1;
+
+    .form {
+        color: #fff;
+        display: flex;
+        justify-content: center;
+
+        .form_label {
+            color: #000;
+            height: 25px;
+        }
+
+        input {
+            font-size: 16px;
+            border: none;
+            height: 55px;
+            width: 20%;
+            padding-left: 20px;
+            padding-right: 20px;
+            background-color: $brand_light;
+            &:nth-of-type(1) {
+                border-top-left-radius: $radius;
+                border-bottom-left-radius: $radius;
+                width: 10%;
+                border-right: 1px solid $brand_light_1;
+            }
+            &:nth-last-of-type(1) {
+                border-right: none;
+                border-left: 1px solid $brand_light_1;
+            }
+            &::placeholder {
+                color: $brand_light_2;
+            }
+
+            @media only screen and (max-width: 920px) {
+                padding-left: 10px;
+                padding-right: 10px;
+            }
+        }
+
+        .form_button {
+            height: 55px;
+            background-color: #56e07b;
+            color: #fff;
+            border: none;
+            border-top-right-radius: $radius;
+            border-bottom-right-radius: $radius;
+            font-size: 18px;
+            // width: 180px;
+            width: 18%;
+            cursor: pointer;
+        }
+
+        .cal_button {
+            display: flex;
+            align-items: center;
+            padding-right: 10px;
+            background-color: $brand_light;
+        }
+    }
+
+    .error {
+        color: $red_dark;
+        text-align: center;
+        padding-top: 10px;
+        position: absolute;
+        text-align: center;
+        width: 100%;
+    }
+}

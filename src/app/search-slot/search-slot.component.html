@@ -1,0 +1,77 @@
+<div class="container">
+    <div class="slot-details" *ngIf="results">
+        <div class="row d-flex justify-content-center">
+            <div class="col col-lg-9 mb-4 mb-lg-0">
+                <div class="card" style="border-radius: .5rem;">
+                    <ul *ngIf="results.length > 0">
+                        <li *ngFor="let result of results">
+                            <div class="row g-0">
+                                <div class="col-md-4 gradient-custom text-center text-white">
+                                    <img src="../../assets/badminton-logo.jpg" alt="avatar" class="img-fluid my-5"
+                                        style="width: 128px;">
+                                    <div class="col-12 mb-5">
+                                        <h5>Slot ID</h5>
+                                        <h6>{{result.id}}</h6>
+                                    </div>
+                                </div>
+                                <div class="col-md-8">
+                                    <div class="card-body p-4">
+                                        <div class="wrapper">
+                                            <div class="header">
+                                                <h6>Slot Information</h6>
+                                            </div>
+                                            <hr class="mt-0 mb-4">
+                                            <div class="row pt-1" [ngClass]="{'showInfo': showInfo, '' : !showInfo}">
+                                                <div class="col-6 mb-3">
+                                                    <h6>Starts</h6>
+                                                    <p class="text-value">{{result.attributes.starts | date: "hh:mm d/M/y"}}</p>
+                                                </div>
+                                                <div class="col-6 mb-3">
+                                                    <h6>Duration</h6>
+                                                    <p class="text-value">{{
+                                                        getDuration(
+                                                            result.attributes.starts,
+                                                            result.attributes.ends
+                                                        )
+                                                        }}</p>
+                                                </div>
+                                            </div>
+                                            <div class="row pt-1" [ngClass]="{'showInfo': showInfo, '' : !showInfo}">
+                                                <div class="col-6 mb-3">
+                                                    <h6>£</h6>
+                                                    <p class="text-value">{{
+                                                        result.attributes.price | currency: "GBP"
+                                                        }}</p>
+                                                </div>
+                                                <div class="col-6 mb-3">
+                                                    <h6>€</h6>
+                                                    <p class="text-value">{{
+                                                        result.attributes.price * 1.13 | currency: "EUR"
+                                                        }}</p>
+                                                </div>
+                                            </div>
+                                            <div class="row pt-1" [ngClass]="{'showInfo': showInfo, '' : !showInfo}">
+                                                <div class="col-6 mb-3">
+                                                    <h6>Availabilities</h6>
+                                                    <p class="text-value">{{
+                                                        result.attributes.availabilities
+                                                        }}</p>
+                                                </div>
+                                                <div class="col-6 mb-3">
+                                                    <h6>Admin fee</h6>
+                                                    <p class="text-value">{{
+                                                        result.attributes.admin_fee | currency: "GBP"
+                                                        }}</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

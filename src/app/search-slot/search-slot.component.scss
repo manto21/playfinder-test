@@ -1,0 +1,101 @@
+@import "../../styles/variables.scss";
+
+.container {
+    font-family: system-ui !important;
+    font-size: 16px;
+    background: #cecece;
+    max-width: 100%;
+    overflow: hidden;
+    margin: 80px auto;
+
+    .col {
+        padding-right: 0;
+    }
+    .row {
+        margin: 0;
+    }
+}
+
+.slot-details {
+    margin: 60px auto;
+    max-width: 90%;
+
+    .wrapper {
+        position: relative;
+    }
+
+    img {
+        border-radius: 65px;
+    }
+
+    .row.pt-1 {
+        overflow: hidden;
+        transition: all 0.3s ease-in-out;
+        overflow: hidden;
+        box-sizing: border-box;
+
+        &.showInfo,
+        &.showLocation,
+        &.showReg {
+            display: flex;
+        }
+    }
+
+    input#state {
+        cursor: pointer;
+        position: absolute;
+        top: 6px;
+        right: 0;
+        width: 16px;
+        height: 16px;
+        opacity: 0;
+    }
+
+    #state:checked ~ .row.pt-1 {
+        max-height: 250px;
+    }
+}
+
+.header {
+    display: block;
+    width: 100%;
+    overflow: hidden;
+
+    h6 {
+        width: calc(100% - 40px);
+        float: left;
+    }
+
+    span.icons {
+        float: right;
+        cursor: pointer;
+    }
+}
+
+.card {
+    border: 0;
+    box-shadow: 0 2px 15px -3px rgb(0 0 0 / 7%), 0 10px 20px -2px rgb(0 0 0 / 4%);
+}
+
+.gradient-custom {
+    background: #cecece;
+    background: -webkit-linear-gradient(to right bottom, rgb(47, 40, 90), rgb(47, 40, 205));
+    background: linear-gradient(to right bottom, rgb(47, 40, 90), rgb(47, 40, 205));
+}
+
+@media screen and (max-width: 767px) {
+    .gradient-custom{
+        border-top-left-radius: 0.5rem;
+        border-top-right-radius: 0.5rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .container {
+        height: 100vh;
+    }
+    .gradient-custom{
+        border-top-left-radius: 0.5rem;
+        border-bottom-left-radius: 0.5rem;
+    }
+}

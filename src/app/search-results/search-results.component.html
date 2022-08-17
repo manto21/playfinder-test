@@ -1,0 +1,55 @@
+<div class="search-results">
+    <div *ngIf="!results">
+        <p>Search above for available slots</p>
+    </div>
+
+    <div *ngIf="results">
+        <ul class="titles">
+            <li>
+                <span class="item">Slot id</span>
+                <span class="item">Starts</span>
+                <span class="item">Duration</span>
+                <span class="item">£</span>
+                <span class="item">€</span>
+                <span class="item">Availabilities</span>
+            </li>
+        </ul>
+
+        <ul>
+            <li
+                class="main"
+                *ngFor="
+                    let result of results
+                        | paginate: { itemsPerPage: 10, currentPage: p }
+                "
+                [ngClass]="{
+                    red: result.attributes.availabilities === 0,
+                    orange:
+                        result.attributes.availabilities > 0 &&
+                        result.attributes.availabilities <= 3,
+                    green: result.attributes.availabilities >= 4
+                }"
+                [routerLink]="['/', result.id]"
+            >
+                <span class="item">{{ result.id }}</span>
+                <span class="item">{{
+                    result.attributes.starts | date: "hh:mm d/M/y"
+                }}</span>
+                <span class="item">{{
+                    getDuration(
+                        result.attributes.starts,
+                        result.attributes.ends
+                    )
+                }}</span>
+                <span class="item">{{
+                    result.attributes.price | currency: "GBP"
+                }}</span>
+                <span class="item">{{
+                    result.attributes.price * 1.13 | currency: "EUR"
+                }}</span>
+                <span class="item">{{ result.attributes.availabilities }}</span>
+            </li>
+        </ul>
+        <pagination-controls (pageChange)="p = $event"></pagination-controls>
+    </div>
+</div>

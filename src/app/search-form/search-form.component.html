@@ -1,0 +1,39 @@
+<div class="search-form">
+    <form
+        class="form"
+        [formGroup]="searchForm"
+        (ngSubmit)="onSubmit(searchForm.value, searchForm.valid)"
+    >
+        <input
+            formControlName="pitch_id"
+            type="number"
+            placeholder="Pitch id"
+        />
+
+        <input
+            formControlName="start_date_object"
+            placeholder="Start date"
+            name="dp"
+            ngbDatepicker
+            #d1="ngbDatepicker"
+        />
+        <button class="cal_button" (click)="d1.toggle()" type="button">
+            <span class="material-icons">keyboard_arrow_down</span>
+        </button>
+
+        <input
+            formControlName="end_date_object"
+            placeholder="End date"
+            name="dp"
+            ngbDatepicker
+            #d2="ngbDatepicker"
+        />
+        <button class="cal_button" (click)="d2.toggle()" type="button">
+            <span class="material-icons">keyboard_arrow_down</span>
+        </button>
+
+        <button class="form_button" type="submit">Search</button>
+    </form>
+
+    <div class="error" *ngIf="!correctDates">Please enter valid dates</div>
+</div>
